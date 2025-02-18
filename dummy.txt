@@ -1,0 +1,2 @@
+this is dummy file in emc2 folder
+this is sample message
